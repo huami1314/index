@@ -273,6 +273,7 @@ body {
 
 #footer {
     width: 100%;
+    opacity: 50%;
     color: white;
     float: left;
     text-align: center;
