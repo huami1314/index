@@ -110,11 +110,11 @@ body {
     animation-fill-mode: forwards;
     margin: 5% 0 0 10%;
     transition: all 0.3s;
-    display: inline;
 }
 
 .meBox-text p {
     margin-top: 5px;
+    display: inline;
 }
 
 .meBox:hover .meBox-text {
